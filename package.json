@@ -1,0 +1,39 @@
+{
+  "name": "angular2paginator-ts",
+  "version": "1.0.0",
+  "description": "A pagination module for Angular2 applications.",
+  "main": "dist/index.js",
+  "scripts": {
+    "prepublish": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emanuelcondo/angular2-pagination.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emanuelcondo/angular2-pagination/issues"
+  },
+  "homepage": "https://github.com/emanuelcondo/angular2-pagination#readme",
+  "author": "Emanuel Condo <emanuelcondo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@angular/core": "^8.1.2",
+    "rxjs": "^6.5.2",
+    "zone.js": "^0.9.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "typescript": "^3.5.3"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "keywords": [
+    "angular2",
+    "pagination",
+    "paginator"
+  ]
+}
