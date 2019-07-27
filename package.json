@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/emanuelcondo/angular2-pagination.git"
+    "url": "git+https://github.com/emanuelcondo/angular2paginator-ts.git"
   },
   "bugs": {
-    "url": "https://github.com/emanuelcondo/angular2-pagination/issues"
+    "url": "https://github.com/emanuelcondo/angular2paginator-ts/issues"
   },
-  "homepage": "https://github.com/emanuelcondo/angular2-pagination#readme",
+  "homepage": "https://github.com/emanuelcondo/angular2paginator-ts#readme",
   "author": "Emanuel Condo <emanuelcondo@gmail.com>",
   "license": "MIT",
   "dependencies": {
@@ -33,6 +33,7 @@
   },
   "keywords": [
     "angular2",
+    "angular-pagination",
     "pagination",
     "paginator"
   ]
