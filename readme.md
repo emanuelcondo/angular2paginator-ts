@@ -6,6 +6,9 @@ A pagination module for Angular 2 applications.
 npm install angular2paginator-ts --save
 ```
 
+## Demo
+Demo at [stackblit](https://stackblitz.com/edit/angular2paginatorts-gubalz).
+
 ## Angular Version
 This library is built to work with **Angular 6+**, and support ahead-of-time compilation.
 If you need to support an earlier or pre-release version of Angular for now, please see the changelog for advice on which version to use.
